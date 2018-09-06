@@ -2391,10 +2391,10 @@
   top:0px;
   width:1196px;
   height:794px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u6898_state0_content {
@@ -13546,10 +13546,10 @@
   width:1196px;
   height:794px;
   visibility:hidden;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u6898_state1_content {
@@ -16347,14 +16347,21 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:1197px;
+  height:797px;
+  overflow:hidden;
   visibility:hidden;
 }
 #u7766_state0 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
-  width:1194px;
+  width:1197px;
   height:797px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u7766_state0_content {
@@ -17948,12 +17955,16 @@
   word-wrap:break-word;
 }
 #u7766_state1 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
-  width:1194px;
+  width:1197px;
   height:797px;
   visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u7766_state1_content {
@@ -19562,10 +19573,10 @@
   width:1196px;
   height:794px;
   visibility:hidden;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u6898_state2_content {
@@ -23390,7 +23401,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:101px;
+  width:129px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 51, 0, 1);
@@ -23410,9 +23421,9 @@
 }
 #u8177 {
   position:absolute;
-  left:1034px;
-  top:442px;
-  width:101px;
+  left:1020px;
+  top:443px;
+  width:129px;
   height:19px;
   font-size:10px;
   color:#FFFFFF;
@@ -23421,7 +23432,7 @@
   position:absolute;
   left:2px;
   top:3px;
-  width:97px;
+  width:125px;
   word-wrap:break-word;
 }
 #u8179 {
